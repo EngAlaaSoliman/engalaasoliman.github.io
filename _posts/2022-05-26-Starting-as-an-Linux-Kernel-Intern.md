@@ -1,6 +1,7 @@
 ## Starting as an Linux Kernel Intern
 
 I was accepted for the May 2022 to August 2022 Outreachy internship round, You have been selected as an intern for Linux Kernel working on the project "Linux kernel Networking API and selftest improvements".
+
 This is Alaa. I graduated as an Electronics and Communication Engineering Bachelor degree and have a good experince in C/C++ and have  good knowledge about linux kernel.
 
 Talking about my core values; Among the many things or treats important to me, I think that three core values are development, Patience, and Perseverance.
