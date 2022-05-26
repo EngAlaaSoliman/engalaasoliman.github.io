@@ -4,7 +4,7 @@ I was accepted for the May 2022 to August 2022 Outreachy internship round, You h
 
 This is Alaa. I graduated as an Electronics and Communication Engineering Bachelor degree and have a good experince in C/C++ and have  good knowledge about linux kernel.
 
-Talking about my core values; Among the many things or treats important to me, I think that three core values are development, Patience, and Perseverance.
+Talking about my core values; Among the many things or treats important to me, I think that three core values are development, patience, and perseverance.
 I am always striving to enhance myself and my capabilities. I seek to develop my mind and my knowledge. I want to spot my weaknesses and convert them to the absolute opposite. I am curious about many things, and I want to widen my knowledge about those things and to develop.
 
 When everything around us is changing, when the world is difficult to understand ,our core values will always be there for us. I believe in patience ,yes I agree Patience is bitter but I also agree its fruit is sweet.
