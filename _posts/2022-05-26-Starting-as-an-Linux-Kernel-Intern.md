@@ -12,6 +12,8 @@ Perseverance, major character trait for one to be successful in life here I like
 Situations in our lives keep on changing constantly and quite unexpectedly too. The ability to accept what you control and what you can't control is required in life.
 
 These and other core values such as being ambitious directed me to applying to the Outreachy Internship! I want to develop my skills and to sharpen my knowledge.
+
 I believe Outreachy is not an ordinary internship, where you just work with your mentors. It is a community of interesting people, who respect each other, other people’s values, and of course have a strong passion for coding. I am very happy to be a part of it. 
+
 To me, Outreachy seemed like an awesome opportunity to exercise somehow those values, while getting closer to other topics that are key to me: inclusion and diversity. From a more personal perspective, it also meant having the chance to study and get back on track with my developer skills, in order to improve my chances of finding a good, meaningful job, while doing cool stuff, with hopefully cool and interesting people. As I believe in sharing, I also understand the importance of free software.
 
